@@ -1,8 +1,8 @@
-**Thesis Idea: Blockchain-Based Tracking and Transparency for Zakat/Sadaqah Distribution by Registered NGOs in Bangladesh.**
+**Thesis Idea: Blockchain-Based Tracking and Transparency for Donation(eg.Zakat/Sadaqah) Distribution by Registered NGOs in Bangladesh.**
 
 **1. Problem Statement & Motivation:**
 
-*   **Context:** Zakat (obligatory charity) and Sadaqah (voluntary charity) are fundamental pillars of Islam, widely practiced in Bangladesh. A significant amount of these funds flows through Non-Governmental Organizations (NGOs) and charitable foundations dedicated to collecting and distributing them.
+*   **Context:** Zakat (obligatory charity) and Sadaqah (voluntary charity) are fundamental pillars of Islam, widely practiced in Bangladesh. A significant amount of these funds flows through Non-Governmental Organizations (NGOs) and charitable foundations dedicated to collecting and distributing them. Also during the recent flood in Comilla there was controversy of personal usage of donation by সমন্বয়ক | 
 *   **Challenge:** Donors, while trusting, often lack clear visibility into how their specific contributions are utilized and whether they reach the intended beneficiaries or projects according to Shariah guidelines (for Zakat). This can sometimes lead to:
     *   Reduced donor confidence.
     *   Concerns about administrative overhead or misdirection of funds.
